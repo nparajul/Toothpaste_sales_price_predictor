@@ -1,7 +1,7 @@
 # Toothpaste_sales_price_predictor
 Sales price prediction challenge by Colgate- HackRU Fall 2019.
 
-# Key Steps Involved:
+# Analysis Breakdown:
 Data Preprocessing  - Cleaned the data. Got ingridients count after removing outliers.<br />
 <br />
 One Hot Encoding- All categorical variables were converted into two bits - 1 or 0. This form was provided to ML algorithms to do a better job in prediction.<br />
